@@ -1,4 +1,4 @@
-Uniconnect
+Connect
 
 Navigate to the project directory:
 
